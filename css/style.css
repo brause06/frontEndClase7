@@ -1,0 +1,59 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e6e6e6;
+}
+
+header img{
+    margin-left: 50%;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 20px;
+    font: size 36px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+h1, h2 {
+    color: #005677;
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman', Times, normal;
+    font-feature-settings: 'cpsp' on;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+li ul{
+    display: inline-block;
+}
+
+li p{
+    display: inline
+}
+
+
+
+
+
+
+footer {
+    background-color: #005677;
+    padding-left: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer p,a {
+    display: inline;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
